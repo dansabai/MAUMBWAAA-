@@ -1,0 +1,22 @@
+body{
+  padding: 50px;
+  text-align: center;
+  margin: 0;
+}
+.dan{
+position: relative;
+left: 30px;
+}
+.panya{
+  position: absolute;
+  top: 50px
+right: 30px;
+}
+.sheu{
+  position: absolute;
+  bottom: 5px;
+}
+.mbwa{
+  position: relative;
+  top: 200px;
+}
